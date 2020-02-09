@@ -1,0 +1,124 @@
+#Skill;Maximum Level Base Game;Maximum Level After Iceborne
+Affinity Sliding;1;1
+Agitator;5;7
+Airborne;1;1
+Aquatic/Polar Mobility;3;3
+Artillery;3;5
+Attack Boost;7;7
+BBQ Master;1;1
+Blast Attack;3;4
+Blast Resistance;3;3
+Bleeding Resistance;3;3
+Blight Resistance;3;3
+Blindsider;1;1
+Bombardier;3;5
+Botanist;4;4
+Capacity Boost;1;1
+Carving Pro;1;1
+Cliffhanger;1;1
+Constitution;5;5
+Critical Boost;3;3
+Critical Draw;3;3
+Critical Eye;7;7
+Defense Boost;7;7
+Detector;1;1
+Divine Blessing;3;5
+Dragon Attack;5;6
+Dragon Resistance;3;3
+Dungmaster;1;1
+Earplugs;5;5
+Effluvia Resistance;3;3
+Effluvial Expert;1;1
+Elderseal Boost;1;1
+Evade Window;5;5
+Entomologist;3;3
+Evade Extender;3;3
+Fire Attack;5;6
+Fire Resistance;3;3
+Flinch Free;3;3
+Focus;3;3
+Forager's Luck;1;1
+Fortify;1;1
+Free Elem/Ammo Up;3;3
+Free Meal;1;3
+Geologist;3;3
+Guard;5;5
+Handicraft;5;5
+Health Boost;3;3
+Heat Guard;1;1
+Heavy Artillery;2;2
+Heroics;5;5
+Honey Hunter;1;1
+Horn Maestro;1;2
+Hunger Resistance;3;3
+Ice Attack;5;6
+Ice Resistance;3;3
+Intimidator;3;3
+Iron Skin;3;3
+Item Prolonger;3;3
+Jump Master;1;1
+Latent Power;5;7
+Leap of Faith;1;1
+Marathon Runner;3;3
+Master Fisher;1;1
+Master Gatherer;1;1
+Master Mounter;1;1
+Maximum Might;3;5
+Muck Resistance;1;1
+Mushroomancer;3;3
+Normal Shots;1;2
+Palico Rally;5;5
+Paralysis Attack;3;4
+Paralysis Resistance;3;3
+Partbreaker;3;3
+Peak Performance;3;3
+Piercing Shots;1;2
+Poison Attack;3;4
+Poison Resistance;3;3
+Power Prolonger;3;3
+Pro Transporter;1;1
+Quick Sheath;3;3
+Recovery Speed;3;3
+Recovery Up;3;3
+Resentment;5;5
+Resuscitate;1;1
+Scenthound;1;1
+Scholar;1;1
+Scoutfly Range Up;1;1
+Sleep Attack;3;4
+Sleep Resistance;3;3
+Slinger Capacity;3;5
+Slugger;3;5
+Special Ammo Boost;2;2
+Speed Crawler;1;1
+Speed Eating;3;3
+Speed Sharpening;3;3
+Survival Expert;3;3
+Spread/Power Shots;1;2
+Stamina Surge;3;3
+Stamina Thief;3;5
+Stealth;3;3
+Stun Resistance;3;3
+Thunder Attack;5;6
+Thunder Resistance;3;3
+Tool Specialist;3;5
+Tremor Resistance;3;3
+Water Attack;5;6
+Water Resistance;3;3
+Weakness Exploit;3;3
+Wide-Range;5;5
+Windproof;5;5
+Critical Element;1;1
+Offensive Guard;3;3
+Critical Status;1;1
+Non-elemental Boost;1;1
+Coalescence;3;3
+Poison Functionality;1;1
+Paralysis Functionality;1;1
+Sleep Functionality;1;1
+Blast Functionality;1;1
+Mind's Eye/Ballistics;1;1
+Protective Polish;1;1
+Bow Charge Plus;1;1
+Guard Up;1;1
+Coldproof;1;1

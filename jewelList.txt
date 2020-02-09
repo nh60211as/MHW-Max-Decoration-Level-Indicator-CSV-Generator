@@ -1,0 +1,403 @@
+#Jewel GMD Key(Key of gmd file);Jewel Name(Just for ID);Skill Name 1,Increased Number,Skill Name 2,Increased Number
+JU_DOKU_NAME;Antidote Jewel 1;Poison Resistance,1
+JU_MAHI_NAME;Antipara Jewel 1;Paralysis Resistance,1
+JU_SUIMIN_NAME;Pep Jewel 1;Sleep Resistance,1
+JU_KIZETSU_NAME;Steadfast Jewel 1;Stun Resistance,1
+JU_BAKUHA_NAME;Antiblast Jewel 1;Blast Resistance,1
+JU_RESSYOU_NAME;Suture Jewel 1;Bleeding Resistance,1
+JU_BOUDOWN_NAME;Def Lock Jewel 1;Iron Skin,1
+JU_MIMISEN_NAME;Earplug Jewel 3;Earplugs,1
+JU_BOUHUU_NAME;Wind Resist Jewel 2;Windproof,1
+JU_TAISHIN_NAME;Footing Jewel 2;Tremor Resistance,1
+JU_KOUGEKI_NAME;Attack Jewel 1;Attack Boost,1
+JU_BOUGYO_NAME;Defense Jewel 1;Defense Boost,1
+JU_TAIRYOKU_NAME;Vitality Jewel 1;Health Boost,1
+JU_KAISOKU_NAME;Recovery Jewel 1;Recovery Speed,1
+JU_HI_NAME;Fire Res Jewel 1;Fire Resistance,1
+JU_MIZU_NAME;Water Res Jewel 1;Water Resistance,1
+JU_KOORI_NAME;Ice Res Jewel 1;Ice Resistance,1
+JU_KAMINARI_NAME;Thunder Res Jewel 1;Thunder Resistance,1
+JU_RYUU_NAME;Dragon Res Jewel 1;Dragon Resistance,1
+JU_TAIZOKU_NAME;Resistor Jewel 1;Blight Resistance,1
+JU_HIZOKU_NAME;Blaze Jewel 1;Fire Attack,1
+JU_MIZUZOKU_NAME;Stream Jewel 1;Water Attack,1
+JU_KOURIZOKU_NAME;Frost Jewel 1;Ice Attack,1
+JU_RAIZOKU_NAME;Bolt Jewel 1;Thunder Attack,1
+JU_RYUUZOKU_NAME;Dragon Jewel 1;Dragon Attack,1
+JU_DOKUATK_NAME;Venom Jewel 1;Poison Attack,1
+JU_MAHIATK_NAME;Paralyzer Jewel 1;Paralysis Attack,1
+JU_SUIMINATK_NAME;Sleep Jewel 1;Sleep Attack,1
+JU_BAKUHAATK_NAME;Blast Jewel 1;Blast Attack,1
+JU_DOKUBIN_NAME;Poisoncoat Jewel 3;Poison Functionality,1
+JU_MAHIBIN_NAME;Paracoat Jewel 3;Paralysis Functionality,1
+JU_SUIMINBIN_NAME;Sleepcoat Jewel 3;Sleep Functionality,1
+JU_BAKUHABIN_NAME;Blastcoat Jewel 3;Blast Functionality,1
+JU_ZOKUKAI_NAME;Release Jewel 3;Free Elem/Ammo Up,1
+JU_MIKIRI_NAME;Expert Jewel 1;Critical Eye,1
+JU_TYOKAISIN_NAME;Critical Jewel 2;Critical Boost,1
+JU_TUUGEKI_NAME;Tenderizer Jewel 2;Weakness Exploit,1
+JU_TANSYUKU_NAME;Charger Jewel 2;Focus,1
+JU_TAKUMI_NAME;Handicraft Jewel 3;Handicraft,1
+JU_BATTOU_NAME;Draw Jewel 2;Critical Draw,1
+JU_JUUGEKI_NAME;Destroyer Jewel 2;Partbreaker,1
+JU_KO_NAME;KO Jewel 2;Slugger,1
+JU_GENKIAT_NAME;Drain Jewel 1;Stamina Thief,1
+JU_HIEN_NAME;Flight Jewel 2;Airborne,1
+JU_HONKI_NAME;Throttle Jewel 2;Latent Power,1
+JU_TYOUSEN_NAME;Challenger Jewel 2;Agitator,1
+JU_FULPOWER_NAME;Flawless Jewel 2;Peak Performance,1
+JU_SOKODIKARA_NAME;Potential Jewel 2;Heroics,1
+JU_GYAKKYOU_NAME;Fortitude Jewel 1;Fortify,1
+JU_GYAKUJYO_NAME;Furor Jewel 2;Resentment,1
+JU_FUE_NAME;Sonorous Jewel 1;Horn Maestro,1
+JU_SOUTENUP_NAME;Magazine Jewel 2;Capacity Boost,1
+JU_TOKUSYA_NAME;Trueshot Jewel 1;Special Ammo Boost,1
+JU_HOUJUTU_NAME;Artillery Jewel 1;Artillery,1
+JU_HOUSYU_NAME;Heavy Artillery Jewel 1;Heavy Artillery,1
+JU_SUTAMINA_NAME;Sprinter Jewel 2;Marathon Runner,1
+JU_TAIJYUTSU_NAME;Physique Jewel 2;Constitution,1
+JU_KIRYOKU_NAME;Refresh Jewel 2;Stamina Surge,1
+JU_HARAHERI_NAME;Hungerless Jewel 1;Hunger Resistance,1
+JU_KAIHI_NAME;Evasion Jewel 2;Evade Window,1
+JU_KAIHIKYORI_NAME;Jumping Jewel 2;Evade Extender,1
+JU_GUARDSEI_NAME;Ironwall Jewel 1;Guard,1
+JU_NOUTOU_NAME;Sheath Jewel 1;Quick Sheath,1
+JU_KOUIKI_NAME;Friendship Jewel 1;Wide-Range,1
+JU_JIZOKU_NAME;Enduring Jewel 1;Item Prolonger,1
+JU_ITEMSAVE_NAME;Satiated Jewel 1;Free Meal,1
+JU_HAYAGUI_NAME;Gobbler Jewel 1;Speed Eating,1
+JU_TOISHI_NAME;Grinder Jewel 1;Speed Sharpening,1
+JU_BAKUSHI_NAME;Bomber Jewel 1;Bombardier,1
+JU_LOVEKINOKO_NAME;Fungiform Jewel 1;Mushroomancer,1
+JU_KAGO_NAME;Protection Jewel 1;Divine Blessing,1
+JU_OTOMOUP_NAME;Meowster Jewel 1;Palico Rally,1
+JU_SYOKUGAKU_NAME;Botany Jewel 1;Botanist,1
+JU_TIGAKU_NAME;Geology Jewel 1;Geologist,1
+JU_KONSHIN_NAME;Mighty Jewel 2;Maximum Might,1
+JU_TOUSEKI_NAME;Stonethrower Jewel 1;Slinger Capacity,1
+JU_INZYA_NAME;Tip Toe Jewel 1;Stealth,1
+JU_TAISYOUGEKI_NAME;Brace Jewel 3;Flinch Free,1
+JU_ENHUKU_NAME;Smoke Jewel 1;Survival Expert,1
+JU_NUMAWATARI_NAME;Mirewalker Jewel 1;Aquatic/Polar Mobility,1
+JU_MUSHIUTI_NAME;Specimen Jewel 1;Entomologist,1
+JU_TAISYOUKI_NAME;Miasma Jewel 1;Effluvia Resistance,1
+JU_KYUUKAKU_NAME;Scent Jewel 1;Scenthound,1
+JU_IKAKU_NAME;Intimidator Jewel 1;Intimidator,1
+JU_KASSOU_NAME;Slider Jewel 2;Affinity Sliding,1
+JU_TIYU_NAME;Medicine Jewel 1;Recovery Up,1
+JU_KYOUDAN_NAME;Forceshot Jewel 3;Normal Shots,1
+JU_KANTUU_NAME;Pierce Jewel 3;Piercing Shots,1
+JU_SANDAN_NAME;Spread Jewel 3;Spread/Power Shots,1
+JU_KOUYOU_NAME;Enhancer Jewel 2;Power Prolonger,1
+JU_KYUUTI_NAME;Crisis Jewel 1;Resuscitate,1
+JU_RYUUHUU_NAME;Dragonseal Jewel 3;Elderseal Boost,1
+JU_SEIBI_NAME;Maintenance Jewel 1;Tool Specialist,1
+JU_GOUKYU_NAME;Mighty Bow Jewel 2;Bow Charge Plus,1
+JU_SINGAN_NAME;Mind's Eye Jewel 2;Mind's Eye/Ballistics,1
+JU_KYOHEKI_NAME;Shield Jewel 2;Guard Up,1
+JU_GOUZIN_NAME;Sharp Jewel 2;Protective Polish,1
+JU_MUGEKI_NAME;Elementless Jewel 2;Non-elemental Boost,1
+JU_M001_NAME;Phoenix Jewel 3;Coalescence,1
+JU_M002_NAME;Guardian Jewel 2;Offensive Guard,1
+JU_M003_NAME;Cooling Jewel 2;Heat Guard,1
+JU_M004_NAME;Fire Res Jewel+ 4;Fire Resistance,2
+JU_M005_NAME;Water Res Jewel+ 4;Water Resistance,2
+JU_M006_NAME;Ice Res Jewel+ 4;Ice Resistance,2
+JU_M007_NAME;Thunder Res Jewel+ 4;Thunder Resistance,2
+JU_M008_NAME;Dragon Res Jewel+ 4;Dragon Resistance,2
+JU_M009_NAME;Blaze Jewel+ 4;Fire Attack,2
+JU_M010_NAME;Stream Jewel+ 4;Water Attack,2
+JU_M011_NAME;Frost Jewel+ 4;Ice Attack,2
+JU_M012_NAME;Bolt Jewel+ 4;Thunder Attack,2
+JU_M013_NAME;Dragon Jewel+ 4;Dragon Attack,2
+JU_M014_NAME;Venom Jewel+ 4;Poison Attack,2
+JU_M015_NAME;Paralyzer Jewel+ 4;Paralysis Attack,2
+JU_M016_NAME;Sleep Jewel+ 4;Sleep Attack,2
+JU_M017_NAME;Blast Jewel+ 4;Blast Attack,2
+JU_M018_NAME;Hard Fire Res Jewel 4;Fire Resistance,3
+JU_M019_NAME;Hard Water Res Jewel 4;Water Resistance,3
+JU_M020_NAME;Hard Ice Res Jewel 4;Ice Resistance,3
+JU_M021_NAME;Hard Thunder Res Jewel 4;Thunder Resistance,3
+JU_M022_NAME;Hard Dragon Res Jewel 4;Dragon Resistance,3
+JU_M023_NAME;Antidote Jewel+ 4;Poison Resistance,2
+JU_M024_NAME;Antipara Jewel+ 4;Paralysis Resistance,2
+JU_M025_NAME;Pep Jewel+ 4;Sleep Resistance,2
+JU_M026_NAME;Steadfast Jewel+ 4;Stun Resistance,2
+JU_M027_NAME;Antiblast Jewel+ 4;Blast Resistance,2
+JU_M028_NAME;Suture Jewel+ 4;Bleeding Resistance,2
+JU_M029_NAME;Def Lock Jewel+ 4;Iron Skin,2
+JU_M030_NAME;Miasma Jewel+ 4;Effluvia Resistance,2
+JU_M031_NAME;Hungerless Jewel+ 4;Hunger Resistance,2
+JU_M032_NAME;Recovery Jewel+ 4;Recovery Speed,2
+JU_M033_NAME;Tip Toe Jewel+ 4;Stealth,2
+JU_M034_NAME;Intimidator Jewel+ 4;Intimidator,2
+JU_M035_NAME;Meowster Jewel+ 4;Palico Rally,2
+JU_M036_NAME;Hard Tip Toe Jewel 4;Stealth,3
+JU_M037_NAME;Hard Intimidator Jewel 4;Intimidator,3
+JU_M038_NAME;Hard Meowster Jewel 4;Palico Rally,3
+JU_M039_NAME;Trueshot Jewel+ 4;Special Ammo Boost,2
+JU_M040_NAME;Heavy Artillery Jewel+ 4;Heavy Artillery,2
+JU_M041_NAME;Botany Jewel+ 4;Botanist,2
+JU_M042_NAME;Geology Jewel+ 4;Geologist,2
+JU_M043_NAME;Survival Jewel+ 4;Survival Expert,2
+JU_M044_NAME;Mirewalker Jewel+ 4;Aquatic/Polar Mobility,2
+JU_M045_NAME;Specimen Jewel+ 4;Entomologist,2
+JU_M046_NAME;Sonorous Jewel+ 4;Horn Maestro,2
+JU_M047_NAME;Hard Botany Jewel+ 4;Botanist,4
+JU_M048_NAME;Hard Geology Jewel 4;Geologist,3
+JU_M049_NAME;Hard Survival Jewel 4;Survival Expert,3
+JU_M050_NAME;Hard Specimen Jewel 4;Entomologist,3
+JU_M051_NAME;Enduring Jewel+ 4;Item Prolonger,2
+JU_M052_NAME;Defense Jewel+ 4;Defense Boost,2
+JU_M053_NAME;Hard Enduring Jewel 4;Item Prolonger,3
+JU_M054_NAME;Hard Defense Jewel 4;Defense Boost,3
+JU_M055_NAME;Artillery Jewel+ 4;Artillery,2
+JU_M056_NAME;Earplug Jewel+ 4;Earplugs,2
+JU_M057_NAME;Wind Resist Jewel+ 4;Windproof,2
+JU_M058_NAME;Attack Jewel+ 4;Attack Boost,2
+JU_M059_NAME;Expert Jewel+ 4;Critical Eye,2
+JU_M060_NAME;Handicraft Jewel+ 4;Handicraft,2
+JU_M061_NAME;Throttle Jewel+ 4;Latent Power,2
+JU_M062_NAME;Challenger Jewel+ 4;Agitator,2
+JU_M063_NAME;Potential Jewel+ 4;Heroics,2
+JU_M064_NAME;Furor Jewel+ 4;Resentment,2
+JU_M065_NAME;Physique Jewel+ 4;Constitution,2
+JU_M066_NAME;Evasion Jewel+ 4;Evade Window,2
+JU_M067_NAME;Ironwall Jewel+ 4;Guard,2
+JU_M068_NAME;Friendship Jewel+ 4;Wide-Range,2
+JU_M069_NAME;Drain/Physique Jewel 4;Stamina Thief,1,Constitution,1
+JU_M070_NAME;Fortitude/Physique Jewel 4;Fortify,1,Constitution,1
+JU_M071_NAME;Crisis/Physique Jewel 4;Resuscitate,1,Constitution,1
+JU_M072_NAME;Ironwall/Physique Jewel 4;Guard,1,Constitution,1
+JU_M073_NAME;Friendship/Physique Jewel 4;Wide-Range,1,Constitution,1
+JU_M074_NAME;Satiated/Physique Jewel 4;Free Meal,1,Constitution,1
+JU_M075_NAME;Stonethrower/Physique Jewel 4;Slinger Capacity,1,Constitution,1
+JU_M076_NAME;Resistor/Physique Jewel 4;Blight Resistance,1,Constitution,1
+JU_M077_NAME;Flight/Physique Jewel 4;Airborne,1,Constitution,1
+JU_M078_NAME;Sprinter/Physique Jewel 4;Marathon Runner,1,Constitution,1
+JU_M079_NAME;Refresh/Physique Jewel 4;Stamina Surge,1,Constitution,1
+JU_M080_NAME;Jumping/Physique Jewel 4;Evade Extender,1,Constitution,1
+JU_M081_NAME;Sheath/Physique Jewel 4;Quick Sheath,1,Constitution,1
+JU_M082_NAME;Gobbler/Physique Jewel 4;Speed Eating,1,Constitution,1
+JU_M083_NAME;Grinder/Physique Jewel 4;Speed Sharpening,1,Constitution,1
+JU_M084_NAME;Bomber/Physique Jewel 4;Bombardier,1,Constitution,1
+JU_M085_NAME;Fungiform/Physique Jewel 4;Mushroomancer,1,Constitution,1
+JU_M086_NAME;Slider/Physique Jewel 4;Affinity Sliding,1,Constitution,1
+JU_M087_NAME;Guardian/Physique Jewel 4;Offensive Guard,1,Constitution,1
+JU_M088_NAME;Drain/Evasion Jewel 4;Stamina Thief,1,Evade Window,1
+JU_M089_NAME;Fortitude/Evasion Jewel 4;Fortify,1,Evade Window,1
+JU_M090_NAME;Crisis/Evasion Jewel 4;Resuscitate,1,Evade Window,1
+JU_M091_NAME;Ironwall/Evasion Jewel 4;Guard,1,Evade Window,1
+JU_M092_NAME;Friendship/Evasion Jewel 4;Wide-Range,1,Evade Window,1
+JU_M093_NAME;Satiated/Evasion Jewel 4;Free Meal,1,Evade Window,1
+JU_M094_NAME;Stonethrower/Evasion Jewel 4;Slinger Capacity,1,Evade Window,1
+JU_M095_NAME;Resistor/Evasion Jewel 4;Blight Resistance,1,Evade Window,1
+JU_M096_NAME;Flight/Evasion Jewel 4;Airborne,1,Evade Window,1
+JU_M097_NAME;Sprinter/Evasion Jewel 4;Marathon Runner,1,Evade Window,1
+JU_M098_NAME;Refresh/Evasion Jewel 4;Stamina Surge,1,Evade Window,1
+JU_M099_NAME;Jumping/Evasion Jewel 4;Evade Extender,1,Evade Window,1
+JU_M100_NAME;Sheath/Evasion Jewel 4;Quick Sheath,1,Evade Window,1
+JU_M101_NAME;Gobbler/Evasion Jewel 4;Speed Eating,1,Evade Window,1
+JU_M102_NAME;Grinder/Evasion Jewel 4;Speed Sharpening,1,Evade Window,1
+JU_M103_NAME;Bomber/Evasion Jewel 4;Bombardier,1,Evade Window,1
+JU_M104_NAME;Fungiform/Evasion Jewel 4;Mushroomancer,1,Evade Window,1
+JU_M105_NAME;Slider/Evasion Jewel 4;Affinity Sliding,1,Evade Window,1
+JU_M106_NAME;Guardian/Evasion Jewel 4;Offensive Guard,1,Evade Window,1
+JU_M107_NAME;Drain/Attack Jewel 4;Stamina Thief,1,Attack Boost,1
+JU_M108_NAME;Fortitude/Attack Jewel 4;Fortify,1,Attack Boost,1
+JU_M109_NAME;Crisis/Attack Jewel 4;Resuscitate,1,Attack Boost,1
+JU_M110_NAME;Ironwall/Attack Jewel 4;Guard,1,Attack Boost,1
+JU_M111_NAME;Friendship/Attack Jewel 4;Wide-Range,1,Attack Boost,1
+JU_M112_NAME;Satiated/Attack Jewel 4;Free Meal,1,Attack Boost,1
+JU_M113_NAME;Stonethrower/Attack Jewel 4;Slinger Capacity,1,Attack Boost,1
+JU_M114_NAME;Resistor/Attack Jewel 4;Blight Resistance,1,Attack Boost,1
+JU_M115_NAME;Flight/Attack Jewel 4;Airborne,1,Attack Boost,1
+JU_M116_NAME;Sprinter/Attack Jewel 4;Marathon Runner,1,Attack Boost,1
+JU_M117_NAME;Refresh/Attack Jewel 4;Stamina Surge,1,Attack Boost,1
+JU_M118_NAME;Jumping/Attack Jewel 4;Evade Extender,1,Attack Boost,1
+JU_M119_NAME;Sheath/Attack Jewel 4;Quick Sheath,1,Attack Boost,1
+JU_M120_NAME;Gobbler/Attack Jewel 4;Speed Eating,1,Attack Boost,1
+JU_M121_NAME;Grinder/Attack Jewel 4;Speed Sharpening,1,Attack Boost,1
+JU_M122_NAME;Bomber/Attack Jewel 4;Bombardier,1,Attack Boost,1
+JU_M123_NAME;Fungiform/Attack Jewel 4;Mushroomancer,1,Attack Boost,1
+JU_M124_NAME;Slider/Attack Jewel 4;Affinity Sliding,1,Attack Boost,1
+JU_M125_NAME;Guardian/Attack Jewel 4;Offensive Guard,1,Attack Boost,1
+JU_M126_NAME;Drain/Expert Jewel 4;Stamina Thief,1,Critical Eye,1
+JU_M127_NAME;Fortitude/Expert Jewel 4;Fortify,1,Critical Eye,1
+JU_M128_NAME;Crisis/Expert Jewel 4;Resuscitate,1,Critical Eye,1
+JU_M129_NAME;Ironwall/Expert Jewel 4;Guard,1,Critical Eye,1
+JU_M130_NAME;Friendship/Expert Jewel 4;Wide-Range,1,Critical Eye,1
+JU_M131_NAME;Satiated/Expert Jewel 4;Free Meal,1,Critical Eye,1
+JU_M132_NAME;Stonethrower/Expert Jewel 4;Slinger Capacity,1,Critical Eye,1
+JU_M133_NAME;Resistor/Expert Jewel 4;Blight Resistance,1,Critical Eye,1
+JU_M134_NAME;Flight/Expert Jewel 4;Airborne,1,Critical Eye,1
+JU_M135_NAME;Sprinter/Expert Jewel 4;Marathon Runner,1,Critical Eye,1
+JU_M136_NAME;Refresh/Expert Jewel 4;Stamina Surge,1,Critical Eye,1
+JU_M137_NAME;Jumping/Expert Jewel 4;Evade Extender,1,Critical Eye,1
+JU_M138_NAME;Sheath/Expert Jewel 4;Quick Sheath,1,Critical Eye,1
+JU_M139_NAME;Gobbler/Expert Jewel 4;Speed Eating,1,Critical Eye,1
+JU_M140_NAME;Grinder/Expert Jewel 4;Speed Sharpening,1,Critical Eye,1
+JU_M141_NAME;Bomber/Expert Jewel 4;Bombardier,1,Critical Eye,1
+JU_M142_NAME;Fungiform/Expert Jewel 4;Mushroomancer,1,Critical Eye,1
+JU_M143_NAME;Slider/Expert Jewel 4;Affinity Sliding,1,Critical Eye,1
+JU_M144_NAME;Guardian/Expert Jewel 4;Offensive Guard,1,Critical Eye,1
+JU_M145_NAME;Drain/Release Jewel 4;Stamina Thief,1,Free Elem/Ammo Up,1
+JU_M146_NAME;Fortitude/Release Jewel 4;Fortify,1,Free Elem/Ammo Up,1
+JU_M147_NAME;Crisis/Release Jewel 4;Resuscitate,1,Free Elem/Ammo Up,1
+JU_M148_NAME;Ironwall/Release Jewel 4;Guard,1,Free Elem/Ammo Up,1
+JU_M149_NAME;Friendship/Release Jewel 4;Wide-Range,1,Free Elem/Ammo Up,1
+JU_M150_NAME;Satiated/Release Jewel 4;Free Meal,1,Free Elem/Ammo Up,1
+JU_M151_NAME;Stonethrower/Release Jewel 4;Slinger Capacity,1,Free Elem/Ammo Up,1
+JU_M152_NAME;Resistor/Release Jewel 4;Blight Resistance,1,Free Elem/Ammo Up,1
+JU_M153_NAME;Flight/Release Jewel 4;Airborne,1,Free Elem/Ammo Up,1
+JU_M154_NAME;Sprinter/Release Jewel 4;Marathon Runner,1,Free Elem/Ammo Up,1
+JU_M155_NAME;Refresh/Release Jewel 4;Stamina Surge,1,Free Elem/Ammo Up,1
+JU_M156_NAME;Jumping/Release Jewel 4;Evade Extender,1,Free Elem/Ammo Up,1
+JU_M157_NAME;Sheath/Release Jewel 4;Quick Sheath,1,Free Elem/Ammo Up,1
+JU_M158_NAME;Gobbler/Release Jewel 4;Speed Eating,1,Free Elem/Ammo Up,1
+JU_M159_NAME;Grinder/Release Jewel 4;Speed Sharpening,1,Free Elem/Ammo Up,1
+JU_M160_NAME;Bomber/Release Jewel 4;Bombardier,1,Free Elem/Ammo Up,1
+JU_M161_NAME;Fungiform/Release Jewel 4;Mushroomancer,1,Free Elem/Ammo Up,1
+JU_M162_NAME;Slider/Release Jewel 4;Affinity Sliding,1,Free Elem/Ammo Up,1
+JU_M163_NAME;Guardian/Release Jewel 4;Offensive Guard,1,Free Elem/Ammo Up,1
+JU_M164_NAME;Drain/Handicraft Jewel 4;Stamina Thief,1,Handicraft,1
+JU_M165_NAME;Fortitude/Handicraft Jewel 4;Fortify,1,Handicraft,1
+JU_M166_NAME;Crisis/Handicraft Jewel 4;Resuscitate,1,Handicraft,1
+JU_M167_NAME;Ironwall/Handicraft Jewel 4;Guard,1,Handicraft,1
+JU_M168_NAME;Friendship/Handicraft Jewel 4;Wide-Range,1,Handicraft,1
+JU_M169_NAME;Satiated/Handicraft Jewel 4;Free Meal,1,Handicraft,1
+JU_M170_NAME;Stonethrower/Handicraft Jewel 4;Slinger Capacity,1,Handicraft,1
+JU_M171_NAME;Resistor/Handicraft Jewel 4;Blight Resistance,1,Handicraft,1
+JU_M172_NAME;Flight/Handicraft Jewel 4;Airborne,1,Handicraft,1
+JU_M173_NAME;Sprinter/Handicraft Jewel 4;Marathon Runner,1,Handicraft,1
+JU_M174_NAME;Refresh/Handicraft Jewel 4;Stamina Surge,1,Handicraft,1
+JU_M175_NAME;Jumping/Handicraft Jewel 4;Evade Extender,1,Handicraft,1
+JU_M176_NAME;Sheath/Handicraft Jewel 4;Quick Sheath,1,Handicraft,1
+JU_M177_NAME;Gobbler/Handicraft Jewel 4;Speed Eating,1,Handicraft,1
+JU_M178_NAME;Grinder/Handicraft Jewel 4;Speed Sharpening,1,Handicraft,1
+JU_M179_NAME;Bomber/Handicraft Jewel 4;Bombardier,1,Handicraft,1
+JU_M180_NAME;Fungiform/Handicraft Jewel 4;Mushroomancer,1,Handicraft,1
+JU_M181_NAME;Slider/Handicraft Jewel 4;Affinity Sliding,1,Handicraft,1
+JU_M182_NAME;Guardian/Handicraft Jewel 4;Offensive Guard,1,Handicraft,1
+JU_M183_NAME;Footing/Protection Jewel 4;Tremor Resistance,1,Divine Blessing,1
+JU_M184_NAME;Charger/Protection Jewel 4;Focus,1,Divine Blessing,1
+JU_M185_NAME;Enhancer/Protection Jewel 4;Power Prolonger,1,Divine Blessing,1
+JU_M186_NAME;Destroyer/Protection Jewel 4;Partbreaker,1,Divine Blessing,1
+JU_M187_NAME;KO/Protection Jewel 4;Slugger,1,Divine Blessing,1
+JU_M188_NAME;Potential/Protection Jewel 4;Heroics,1,Divine Blessing,1
+JU_M189_NAME;Wind Resist/Protection Jewel 4;Windproof,1,Divine Blessing,1
+JU_M190_NAME;Draw/Protection Jewel 4;Critical Draw,1,Divine Blessing,1
+JU_M191_NAME;Throttle/Protection Jewel 4;Latent Power,1,Divine Blessing,1
+JU_M192_NAME;Challenger/Protection Jewel 4;Agitator,1,Divine Blessing,1
+JU_M193_NAME;Flawless/Protection Jewel 4;Peak Performance,1,Divine Blessing,1
+JU_M194_NAME;Furor/Protection Jewel 4;Resentment,1,Divine Blessing,1
+JU_M195_NAME;Mighty/Protection Jewel 4;Maximum Might,1,Divine Blessing,1
+JU_M196_NAME;Brace/Protection Jewel 4;Flinch Free,1,Divine Blessing,1
+JU_M197_NAME;Phoenix/Protection Jewel 4;Coalescence,1,Divine Blessing,1
+JU_M198_NAME;Earplug/Protection Jewel 4;Earplugs,1,Divine Blessing,1
+JU_M199_NAME;Critical/Protection Jewel 4;Critical Boost,1,Divine Blessing,1
+JU_M200_NAME;Tenderizer/Protection Jewel 4;Weakness Exploit,1,Divine Blessing,1
+JU_M201_NAME;Handicraft/Protection Jewel 4;Handicraft,1,Divine Blessing,1
+JU_M202_NAME;Release/Protection Jewel 4;Free Elem/Ammo Up,1,Divine Blessing,1
+JU_M203_NAME;Footing/Medicine Jewel 4;Tremor Resistance,1,Recovery Up,1
+JU_M204_NAME;Charger/Medicine Jewel 4;Focus,1,Recovery Up,1
+JU_M205_NAME;Enhancer/Medicine Jewel 4;Power Prolonger,1,Recovery Up,1
+JU_M206_NAME;Destroyer/Medicine Jewel 4;Partbreaker,1,Recovery Up,1
+JU_M207_NAME;KO/Medicine Jewel 4;Slugger,1,Recovery Up,1
+JU_M208_NAME;Potential/Medicine Jewel 4;Heroics,1,Recovery Up,1
+JU_M209_NAME;Wind Resist/Medicine Jewel 4;Windproof,1,Recovery Up,1
+JU_M210_NAME;Draw/Medicine Jewel 4;Critical Draw,1,Recovery Up,1
+JU_M211_NAME;Throttle/Medicine Jewel 4;Latent Power,1,Recovery Up,1
+JU_M212_NAME;Challenger/Medicine Jewel 4;Agitator,1,Recovery Up,1
+JU_M213_NAME;Flawless/Medicine Jewel 4;Peak Performance,1,Recovery Up,1
+JU_M214_NAME;Furor/Medicine Jewel 4;Resentment,1,Recovery Up,1
+JU_M215_NAME;Mighty/Medicine Jewel 4;Maximum Might,1,Recovery Up,1
+JU_M216_NAME;Brace/Medicine Jewel 4;Flinch Free,1,Recovery Up,1
+JU_M217_NAME;Phoenix/Medicine Jewel 4;Coalescence,1,Recovery Up,1
+JU_M218_NAME;Earplug/Medicine Jewel 4;Earplugs,1,Recovery Up,1
+JU_M219_NAME;Critical/Medicine Jewel 4;Critical Boost,1,Recovery Up,1
+JU_M220_NAME;Tenderizer/Medicine Jewel 4;Weakness Exploit,1,Recovery Up,1
+JU_M221_NAME;Handicraft/Medicine Jewel 4;Handicraft,1,Recovery Up,1
+JU_M222_NAME;Release/Medicine Jewel 4;Free Elem/Ammo Up,1,Recovery Up,1
+JU_M223_NAME;Footing/Vitality Jewel 4;Tremor Resistance,1,Health Boost,1
+JU_M224_NAME;Charger/Vitality Jewel 4;Focus,1,Health Boost,1
+JU_M225_NAME;Enhancer/Vitality Jewel 4;Power Prolonger,1,Health Boost,1
+JU_M226_NAME;Destroyer/Vitality Jewel 4;Partbreaker,1,Health Boost,1
+JU_M227_NAME;KO/Vitality Jewel 4;Slugger,1,Health Boost,1
+JU_M228_NAME;Potential/Vitality Jewel 4;Heroics,1,Health Boost,1
+JU_M229_NAME;Wind Resist/Vitality Jewel 4;Windproof,1,Health Boost,1
+JU_M230_NAME;Draw/Vitality Jewel 4;Critical Draw,1,Health Boost,1
+JU_M231_NAME;Throttle/Vitality Jewel 4;Latent Power,1,Health Boost,1
+JU_M232_NAME;Challenger/Vitality Jewel 4;Agitator,1,Health Boost,1
+JU_M233_NAME;Flawless/Vitality Jewel 4;Peak Performance,1,Health Boost,1
+JU_M234_NAME;Furor/Vitality Jewel 4;Resentment,1,Health Boost,1
+JU_M235_NAME;Mighty/Vitality Jewel 4;Maximum Might,1,Health Boost,1
+JU_M236_NAME;Brace/Vitality Jewel 4;Flinch Free,1,Health Boost,1
+JU_M237_NAME;Phoenix/Vitality Jewel 4;Coalescence,1,Health Boost,1
+JU_M238_NAME;Earplug/Vitality Jewel 4;Earplugs,1,Health Boost,1
+JU_M239_NAME;Critical/Vitality Jewel 4;Critical Boost,1,Health Boost,1
+JU_M240_NAME;Tenderizer/Vitality Jewel 4;Weakness Exploit,1,Health Boost,1
+JU_M241_NAME;Handicraft/Vitality Jewel 4;Handicraft,1,Health Boost,1
+JU_M242_NAME;Release/Vitality Jewel 4;Free Elem/Ammo Up,1,Health Boost,1
+JU_M243_NAME;Footing/Maintenance Jewel 4;Tremor Resistance,1,Tool Specialist,1
+JU_M244_NAME;Charger/Maintenance Jewel 4;Focus,1,Tool Specialist,1
+JU_M245_NAME;Enhancer/Maintenance Jewel 4;Power Prolonger,1,Tool Specialist,1
+JU_M246_NAME;Destroyer/Maintenance Jewel 4;Partbreaker,1,Tool Specialist,1
+JU_M247_NAME;KO/Maintenance Jewel 4;Slugger,1,Tool Specialist,1
+JU_M248_NAME;Potential/Maintenance Jewel 4;Heroics,1,Tool Specialist,1
+JU_M249_NAME;Wind Resist/Maintenance Jewel 4;Windproof,1,Tool Specialist,1
+JU_M250_NAME;Draw/Maintenance Jewel 4;Critical Draw,1,Tool Specialist,1
+JU_M251_NAME;Throttle/Maintenance Jewel 4;Latent Power,1,Tool Specialist,1
+JU_M252_NAME;Challenger/Maintenance Jewel 4;Agitator,1,Tool Specialist,1
+JU_M253_NAME;Flawless/Maintenance Jewel 4;Peak Performance,1,Tool Specialist,1
+JU_M254_NAME;Furor/Maintenance Jewel 4;Resentment,1,Tool Specialist,1
+JU_M255_NAME;Mighty/Maintenance Jewel 4;Maximum Might,1,Tool Specialist,1
+JU_M256_NAME;Brace/Maintenance Jewel 4;Flinch Free,1,Tool Specialist,1
+JU_M257_NAME;Phoenix/Maintenance Jewel 4;Coalescence,1,Tool Specialist,1
+JU_M258_NAME;Earplug/Maintenance Jewel 4;Earplugs,1,Tool Specialist,1
+JU_M259_NAME;Critical/Maintenance Jewel 4;Critical Boost,1,Tool Specialist,1
+JU_M260_NAME;Tenderizer/Maintenance Jewel 4;Weakness Exploit,1,Tool Specialist,1
+JU_M261_NAME;Handicraft/Maintenance Jewel 4;Handicraft,1,Tool Specialist,1
+JU_M262_NAME;Release/Maintenance Jewel 4;Free Elem/Ammo Up,1,Tool Specialist,1
+JU_M263_NAME;Footing/Physique Jewel 4;Tremor Resistance,1,Constitution,1
+JU_M264_NAME;Charger/Physique Jewel 4;Focus,1,Constitution,1
+JU_M265_NAME;Enhancer/Physique Jewel 4;Power Prolonger,1,Constitution,1
+JU_M266_NAME;Destroyer/Physique Jewel 4;Partbreaker,1,Constitution,1
+JU_M267_NAME;KO/Physique Jewel 4;Slugger,1,Constitution,1
+JU_M268_NAME;Potential/Physique Jewel 4;Heroics,1,Constitution,1
+JU_M269_NAME;Wind Resist/Physique Jewel 4;Windproof,1,Constitution,1
+JU_M270_NAME;Draw/Physique Jewel 4;Critical Draw,1,Constitution,1
+JU_M271_NAME;Throttle/Physique Jewel 4;Latent Power,1,Constitution,1
+JU_M272_NAME;Challenger/Physique Jewel 4;Agitator,1,Constitution,1
+JU_M273_NAME;Flawless/Physique Jewel 4;Peak Performance,1,Constitution,1
+JU_M274_NAME;Furor/Physique Jewel 4;Resentment,1,Constitution,1
+JU_M275_NAME;Mighty/Physique Jewel 4;Maximum Might,1,Constitution,1
+JU_M276_NAME;Brace/Physique Jewel 4;Flinch Free,1,Constitution,1
+JU_M277_NAME;Phoenix/Physique Jewel 4;Coalescence,1,Constitution,1
+JU_M278_NAME;Earplug/Physique Jewel 4;Earplugs,1,Constitution,1
+JU_M279_NAME;Critical/Physique Jewel 4;Critical Boost,1,Constitution,1
+JU_M280_NAME;Tenderizer/Physique Jewel 4;Weakness Exploit,1,Constitution,1
+JU_M281_NAME;Handicraft/Physique Jewel 4;Handicraft,1,Constitution,1
+JU_M282_NAME;Release/Physique Jewel 4;Free Elem/Ammo Up,1,Constitution,1
+JU_M283_NAME;Footing/Evasion Jewel 4;Tremor Resistance,1,Evade Window,1
+JU_M284_NAME;Charger/Evasion Jewel 4;Focus,1,Evade Window,1
+JU_M285_NAME;Enhancer/Evasion Jewel 4;Power Prolonger,1,Evade Window,1
+JU_M286_NAME;Destroyer/Evasion Jewel 4;Partbreaker,1,Evade Window,1
+JU_M287_NAME;KO/Evasion Jewel 4;Slugger,1,Evade Window,1
+JU_M288_NAME;Potential/Evasion Jewel 4;Heroics,1,Evade Window,1
+JU_M289_NAME;Wind Resist/Evasion Jewel 4;Windproof,1,Evade Window,1
+JU_M290_NAME;Draw/Evasion Jewel 4;Critical Draw,1,Evade Window,1
+JU_M291_NAME;Throttle/Evasion Jewel 4;Latent Power,1,Evade Window,1
+JU_M292_NAME;Challenger/Evasion Jewel 4;Agitator,1,Evade Window,1
+JU_M293_NAME;Flawless/Evasion Jewel 4;Peak Performance,1,Evade Window,1
+JU_M294_NAME;Furor/Evasion Jewel 4;Resentment,1,Evade Window,1
+JU_M295_NAME;Mighty/Evasion Jewel 4;Maximum Might,1,Evade Window,1
+JU_M296_NAME;Brace/Evasion Jewel 4;Flinch Free,1,Evade Window,1
+JU_M297_NAME;Phoenix/Evasion Jewel 4;Coalescence,1,Evade Window,1
+JU_M298_NAME;Earplug/Evasion Jewel 4;Earplugs,1,Evade Window,1
+JU_M299_NAME;Critical/Evasion Jewel 4;Critical Boost,1,Evade Window,1
+JU_M300_NAME;Tenderizer/Evasion Jewel 4;Weakness Exploit,1,Evade Window,1
+JU_M301_NAME;Handicraft/Evasion Jewel 4;Handicraft,1,Evade Window,1
+JU_M302_NAME;Release/Evasion Jewel 4;Free Elem/Ammo Up,1,Evade Window,1
+JU_M303_NAME;Survival Jewel 1;Survival Expert,1
+JU_M305_NAME;Warming Jewel 2;Coldproof,1
