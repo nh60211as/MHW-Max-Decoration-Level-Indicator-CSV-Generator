@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="MHW Max Decoration Level Indicator CSV Generator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MHW_Max_Decoration_Level_Indicator_CSV_Generator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="MHW Max Decoration Level Indicator CSV Generator.jar">
+        <element id="module-output" name="MHW Max Decoration Level Indicator CSV Generator" />
+      </element>
+      <element id="library" level="project" name="com.opencsv:opencsv:5.1" />
+    </root>
+  </artifact>
+</component>
