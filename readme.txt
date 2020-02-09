@@ -1,3 +1,5 @@
+Source code to generate "Max Decoration Level Indicator (Updated)" for Monster Hunter: World: https://www.nexusmods.com/monsterhunterworld/mods/1088
+
 Make sure you have Java Runtime Environment installed and path added to System variable.
 
 How to use the program
