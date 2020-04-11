@@ -47,7 +47,7 @@ Handicraft;5;5
 Health Boost;3;3
 Heat Guard;1;1
 Heavy Artillery;2;2
-Heroics;5;5
+Heroics;5;7
 Honey Hunter;1;1
 Horn Maestro;1;2
 Hunger Resistance;3;3
