@@ -1,6 +1,7 @@
+import java.io.File;
+import java.io.FileFilter;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.io.*;
 
 public class Main {
     private static final String skillListFileName = "skillList.txt";
@@ -18,6 +19,7 @@ public class Main {
         HashMap<String, String> maxLevelList = generateMaxLevelList(skillList, jewelList, method);
 
         File remainKeyEntryFile = new File(remainKeyEntryFileName);
+        System.out.println("Writing remain key entry list: " + remainKeyEntryFile.getAbsolutePath());
         WriteFile.writeRemainKeyEntryFile(maxLevelList, remainKeyEntryFile);
 
         HashMap<String, String> remainKeyEntries = ReadFile.readRemainKeyEntry(remainKeyEntryFileName);
@@ -103,6 +105,7 @@ public class Main {
         HashMap<String, String> CSVContent = ReadFile.readGMDEditorCSV(inputFileName);
         //System.out.println(CSVContent.toString());
         //System.out.println(CSVContent.size());
+        System.out.println("Writing CSV file to be import to GMD editor: " + outputFile.getAbsoluteFile());
         WriteFile.writeGMDEditorCSV(CSVContent, remainKeyEntries, outputFile);
     }
 

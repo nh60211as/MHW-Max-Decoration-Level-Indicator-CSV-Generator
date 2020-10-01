@@ -1,4 +1,7 @@
-import com.opencsv.*;
+import com.opencsv.CSVParser;
+import com.opencsv.CSVParserBuilder;
+import com.opencsv.CSVWriterBuilder;
+import com.opencsv.ICSVWriter;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
@@ -9,7 +12,6 @@ public class WriteFile {
         Writer writer = null;
         BufferedWriter bw = null;
         try {
-            System.out.println("Writing remain key entry list: " + file.getAbsoluteFile());
             writer = new OutputStreamWriter(new FileOutputStream(file), StandardCharsets.UTF_8);
             bw = new BufferedWriter(writer);
             // Start writing files line by line
@@ -38,14 +40,12 @@ public class WriteFile {
                 ex.printStackTrace();
             }
         }
-        System.out.println("Done");
     }
 
     static void writeGMDEditorCSV(HashMap<String, String> fileContent, HashMap<String, String> remainKeyEntries, File file) {
         Writer writer = null;
         BufferedWriter bw = null;
         try {
-            System.out.println("Writing CSV file to be import to GMD editor: " + file.getAbsoluteFile());
             writer = new OutputStreamWriter(new FileOutputStream(file), StandardCharsets.UTF_8);
             bw = new BufferedWriter(writer);
             CSVParser parser = new CSVParserBuilder().withSeparator(';').build();
@@ -70,7 +70,6 @@ public class WriteFile {
                     bw.close();
                 if (writer != null)
                     writer.close();
-                writer.close();
             } catch (IOException ex) {
                 ex.printStackTrace();
             }

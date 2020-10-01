@@ -1,14 +1,14 @@
-import java.io.*;
-import java.nio.charset.StandardCharsets;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-
 import com.opencsv.CSVParser;
 import com.opencsv.CSVParserBuilder;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
 import com.opencsv.exceptions.CsvException;
+
+import java.io.*;
+import java.nio.charset.StandardCharsets;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 
 public class ReadFile {
     // read different set of Maximum Level based on isIB(is Iceborne)
@@ -78,7 +78,7 @@ public class ReadFile {
                 String[] SkillListBlock = skillListString.split(",");
                 // set the limit to -1 so the function DOESN'T discard trailing empty string
                 //System.out.println(currentLine);
-                ArrayList<Skill> inputValue = new ArrayList();
+                ArrayList<Skill> inputValue = new ArrayList<>();
                 for (int i = 0; i < SkillListBlock.length; i += 2)
                     inputValue.add(new Skill(SkillListBlock[i], Integer.parseInt(SkillListBlock[i + 1])));
                 skillList.put(inputKey, inputValue);
@@ -115,6 +115,9 @@ public class ReadFile {
                 if (currentLine.substring(0, 1).contentEquals("#"))
                     continue;
                 if (currentLine.length() > 0) {
+                    // IntelliJ reports the following
+                    // Warning:Condition 'currentLine.length() > 0' is always 'true'
+                    // But String could be empty and equates to 0
                     String[] stringBlock = currentLine.split(";", -1);
                     // set the limit to -1 so the function DOESN'T discard trailing empty string
                     //System.out.println(currentLine);
