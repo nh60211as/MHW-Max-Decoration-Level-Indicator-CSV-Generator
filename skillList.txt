@@ -122,3 +122,6 @@ Protective Polish;1;1
 Bow Charge Plus;1;1
 Guard Up;1;1
 Coldproof;1;1
+Provoker;1;1
+Safe Landing;1;1
+Clutch Claw Boost;1;1

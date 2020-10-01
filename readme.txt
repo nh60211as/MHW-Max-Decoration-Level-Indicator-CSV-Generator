@@ -8,7 +8,7 @@ java -jar MHW_Max_Decor_CSV.jar "input file name" 1
 or
 java -jar MHW_Max_Decor_CSV.jar "input file folder" 1
 
-If the input argument is a single file, the generated "remain file" will be named something like item_chT_remain.csv.
+If the input argument is a single file, the generated "remain file" will be named something like item_chT_patch_1008_MDLI.csv.
 
 If the input argument is a folder, the program will scan the files with the extension "csv" in the folder and generate the corresponding files in the folder named <original file folder>_remain.
 
@@ -19,7 +19,7 @@ The second argument is the variant of the indicator
     // method 3: Lower level needed  -> min(3,7) -> [3]
 Example:
 java -jar MHW_Max_Decor_CSV.jar item_chT.csv 1
-will get you a variant 1 item_chT_remain.csv for you to import to GMD Editor.
+will get you a variant 1 item_chT_patch_1008_MDLI.csv for you to import to GMD Editor.
 
 How to add new skills and jewls
 Edit skillList.txt and jewelList.txt according to their format

@@ -401,3 +401,6 @@ JU_M301_NAME;Handicraft/Evasion Jewel 4;Handicraft,1,Evade Window,1
 JU_M302_NAME;Release/Evasion Jewel 4;Free Elem/Ammo Up,1,Evade Window,1
 JU_M303_NAME;Survival Jewel 1;Survival Expert,1
 JU_M305_NAME;Warming Jewel 2;Coldproof,1
+JU_M306_NAME;Diversion Jewel 3;Provoker,1
+JU_M307_NAME;Acrobat Jewel 3;Safe Landing,1
+JU_M308_NAME;Shaver Jewel 3;Clutch Claw Boost,1
