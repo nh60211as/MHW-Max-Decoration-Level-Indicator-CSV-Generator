@@ -8,7 +8,7 @@ java -jar MHW_Max_Decor_CSV.jar "input file name" 1
 or
 java -jar MHW_Max_Decor_CSV.jar "input file folder" 1
 
-If the input argument is a single file, the generated "remain file" will be named something like item_chT_patch_1008_MDLI.csv.
+If the input argument is a single file, the generated "patch file" will be named something like item_chT_patch_1008_MDLI.csv.
 
 If the input argument is a folder, the program will scan the files with the extension "csv" in the folder and generate the corresponding files in the folder named <original file folder>_remain.
 
