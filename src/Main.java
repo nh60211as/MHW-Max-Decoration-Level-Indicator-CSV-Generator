@@ -1,13 +1,12 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.io.*;
-import java.nio.charset.StandardCharsets;
 
 public class Main {
     private static final String skillListFileName = "skillList.txt";
     private static final String jewelListFileName = "jewelList.txt";
     private static final String remainKeyEntryFileName = "remainKeyEntry.txt";
-    private static HashMap<String, String> remainKeyEntries;
+    private static final String patchFileNameSuffix = "_patch_1008_MDLI"; // format: _patch_<Nexus Mod ID>_<Mod Name>
 
     public static void main(String[] args) {
         File skillListFile = new File(skillListFileName);
@@ -21,16 +20,14 @@ public class Main {
         File remainKeyEntryFile = new File(remainKeyEntryFileName);
         WriteFile.writeRemainKeyEntryFile(maxLevelList, remainKeyEntryFile);
 
-        remainKeyEntries = ReadFile.readRemainKeyEntry(remainKeyEntryFileName);
+        HashMap<String, String> remainKeyEntries = ReadFile.readRemainKeyEntry(remainKeyEntryFileName);
 
         File itemFile = new File(args[0]);
         if (itemFile.isDirectory()) {
             FileFilter filter = new FileFilter() {
                 @Override
                 public boolean accept(File pathname) {
-                    if (pathname.getName().toLowerCase().endsWith(".csv"))
-                        return true;
-                    return false;
+                    return pathname.getName().toLowerCase().endsWith(".csv");
                 }
             };
             File[] fileList = itemFile.listFiles(filter);
@@ -45,10 +42,10 @@ public class Main {
             for (File file : fileList) {
                 File outputFileName = new File(outputFileDir.getAbsolutePath() + "/" + file.getName());
                 //System.out.println(outputFileName.getAbsoluteFile());
-                generateRemainFile(file, addStringBeforeExtension(outputFileName, "_remain"));
+                generatePatchFile(file, remainKeyEntries, addStringBeforeExtension(outputFileName, patchFileNameSuffix));
             }
         } else {
-            generateRemainFile(itemFile, addStringBeforeExtension(itemFile, "_remain"));
+            generatePatchFile(itemFile, remainKeyEntries, addStringBeforeExtension(itemFile, patchFileNameSuffix));
         }
 
         System.out.println("Program exited");
@@ -102,7 +99,7 @@ public class Main {
         return levelIndicatorList;
     }
 
-    private static void generateRemainFile(File inputFileName, File outputFile) {
+    private static void generatePatchFile(File inputFileName, HashMap<String, String> remainKeyEntries, File outputFile) {
         HashMap<String, String> CSVContent = ReadFile.readGMDEditorCSV(inputFileName);
         //System.out.println(CSVContent.toString());
         //System.out.println(CSVContent.size());
@@ -112,9 +109,9 @@ public class Main {
     // It's a hack
     private static File addStringBeforeExtension(File file, String addedString) {
         String fileName = file.getAbsolutePath();
-        String fileNameWithExtension = fileName.substring(0, fileName.lastIndexOf("."));
+        String fileNameWithoutExtension = fileName.substring(0, fileName.lastIndexOf("."));
         String extension = fileName.substring(fileName.lastIndexOf("."));
 
-        return new File(fileNameWithExtension + addedString + extension);
+        return new File(fileNameWithoutExtension + addedString + extension);
     }
 }
